@@ -101,3 +101,36 @@ header{
     font-weight: bold;
 }
 /* midnight party section end */
+
+/* schedule section starts */
+.schedule{
+    height: 482px;
+    width: 1320px;
+    background-image: linear-gradient(#ffeaea,white);
+    margin: 0 auto;
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+.schedule_content{
+    margin-top: 100px;
+    text-align: center;
+}
+.schedule_content>p{
+    font-size: 32px;
+    line-height: 56px;
+}
+.schedule_content>p>span{
+    color: #FF0000;
+}
+.btn{
+    padding: 15px 38px;
+    font-size: 20px;
+    background-color: #FF0000;
+    color: white;
+    border: none;
+    border-radius: 16px;
+    margin-top: 48px;
+}
+/* schedule section end */
