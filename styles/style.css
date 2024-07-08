@@ -254,3 +254,51 @@ header{
 }
 /* subscribe end */
 
+/* footer starts */
+.footer{
+    height: 609px;
+    width: 1320px;
+    margin: 0 auto;
+    background-color: #070211;
+    margin-top: 120px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.footer_address{
+    padding-top: 120px;
+    padding-bottom: 50px;
+    display: flex;
+    gap: 559px;
+    border-bottom: 1px solid white;
+    width: 1000px;
+    
+}
+
+.contact>ul{
+    list-style: none;
+}
+.social_image ul{
+    list-style: none;
+}
+.social_image ul li{
+    display: inline;
+}
+.social_image{
+    width: 1000px;
+    text-align: center;
+    
+}
+.social_image_ul{
+    padding: 48px 0px;
+    border-bottom: 1px solid white;
+}
+.social_unsunscribe{
+    width: 1000px;
+    display: flex;
+    gap: 750px;
+    padding-top: 50px;
+}
+
