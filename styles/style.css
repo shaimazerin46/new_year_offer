@@ -19,6 +19,7 @@
 }
 .p_color{
     color: #bababb;
+    font-size: 20px;
 }
 /* header start */
 header{
@@ -179,3 +180,31 @@ header{
     height: 310px;
     margin-top: 127px;
 }
+
+/* comming soon section end */
+
+/* holiday section starts */
+.holiday {
+    max-width: 1320px;
+    height: 986px;
+    margin: 0 auto;
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    background-image: url('../images/Group\ 75.png'),url('../images/Rectangle\ 2.png'), url('../images/Group\ 44.png');
+    background-repeat: no-repeat;
+    background-position: left bottom, left bottom, right center;
+    
+}
+
+.holiday_content1{
+    max-width: 1064px;
+    height: 260px;
+    text-align: center;
+    margin: 0 auto;
+}
+.holiday_gift_img1{
+    position: relative;
+    bottom: 0px;
+}
+
